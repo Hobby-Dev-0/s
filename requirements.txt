@@ -34,8 +34,6 @@ pygifsicle>=1.0.2
 
 psutil>=5.8.0
 
-python-dotenv>=0.15.0
-
 pymediainfo>=5.0.3
 
 motor>=2.3.1
@@ -205,9 +203,6 @@ wheel
 
 wikipedia
 
-youtube-search
-
-youtube-search-python
 
 youtube_dl
 

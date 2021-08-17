@@ -1,4 +1,5 @@
 pyrogram
+pylast
 filesplit
 git+https://github.com/InternetAmethyst/SpeedoTele
 wget>=3.2

@@ -164,7 +164,6 @@ pylast
 
 PyLyrics
 
-pymediainfo
 
 pySmartDL
 

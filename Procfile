@@ -1,2 +1,2 @@
-Speedo: bash start.sh
+Speedo: bash telethon.sh
 SPEEDO: bash pyrogram.sh

@@ -4,8 +4,7 @@ if [[ $CLIENT == "Both" ]]
 then
    git clone https://github.com/TeamSpeedo/Speedo.git
    cd Speedo
-   python3 -m Speedo
-   python3 -m main_start
+   python3 -m iampro
 elif [[ $CLIENT == "Tele" ]]
 then
    git clone https://github.com/TeamSpeedo/Speedo.git

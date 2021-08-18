@@ -1,4 +1,4 @@
-FROM AmanPandey/Speedo:alpine
+FROM amanpandey/speedo:alpine
 
 COPY . .
 

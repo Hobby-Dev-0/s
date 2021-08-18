@@ -1,4 +1,4 @@
-FROM internetamethyst/speedo:alpine
+FROM internetamethyst/python:3.9
 
 COPY . .
 

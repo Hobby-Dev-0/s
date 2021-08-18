@@ -1,4 +1,4 @@
-FROM internetamethyst/python:3.9
+FROM heroku/python:3.9
 
 COPY . .
 

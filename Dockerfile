@@ -5,4 +5,4 @@ COPY . .
 RUN pip3 install -r requirements.txt
 WORKDIR root/Speedo
 COPY . .
-CMD build.exe
+CMD telethon.bat

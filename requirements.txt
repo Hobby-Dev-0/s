@@ -2,7 +2,7 @@ pyrogram
 
 filesplit
 
-git+https://github.com/InternetAmethyst/SpeedoTele
+pathlib
 
 wget>=3.2
 
@@ -204,3 +204,5 @@ wikipedia
 
 youtube_dl
 
+
+git+https://github.com/InternetAmethyst/SpeedoTele

@@ -204,5 +204,4 @@ wikipedia
 
 youtube_dl
 
-
-git+https://github.com/InternetAmethyst/SpeedoTele
+telethon

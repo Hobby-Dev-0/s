@@ -1,4 +1,4 @@
-FROM heroku/python:3.9
+FROM heroku/python:latest
 
 COPY . .
 

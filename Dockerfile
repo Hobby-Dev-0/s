@@ -4,5 +4,5 @@ COPY . .
 
 RUN pip3 install -r requirements.txt
 WORKDIR root/Speedo
-COPY . .
-CMD ["bash", "telethon.sh"]
+# IAmpro
+CMD start cmd.exe /c telethon.bat
